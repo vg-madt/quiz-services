@@ -1,0 +1,94 @@
+{
+	"questions": [{
+			"question": "What does HTML stand for?",
+			"choices": ["Hyper Text Markup Language",
+				"Home Tool Markup Language",
+				"Hyperlinks and Text Markup Language",
+				"None of the above"
+			],
+			"answer": {
+				"answer": "Hyper Text Markup Language"
+			}
+		},
+		{
+			"question": "Who is making the Web standards?",
+			"choices": [
+				"Google",
+				"Mozilla",
+				"Microsoft",
+				"The World Wide Web Consortium"
+			],
+			"answer": {
+				"answer": "The World Wide Web Consortium"
+			}
+		}, {
+			"question": "Choose the correct HTML element for the largest heading:",
+			"choices": [
+				"head",
+				"heading",
+				"h1",
+				"h6"
+			],
+			"answer": {
+				"answer": "h1"
+			}
+		}, {
+			"question": "What is the correct HTML element for inserting a line break?",
+			"choices": [
+				"br",
+				"lb",
+				"break",
+				"hr"
+			],
+			"answer": {
+				"answer": "br"
+			}
+		}, {
+			"question": "What is the correct HTML element for a paragraph?",
+			"choices": [
+				"p",
+				"a",
+				"td",
+				"para"
+			],
+			"answer": {
+				"answer": "p"
+			}
+		},
+		{
+
+			"question": "What is the correct HTML element to make the text bold?",
+			"choices": [
+				"b",
+				"a",
+				"i",
+				"bold"
+			],
+			"answer": {
+				"answer": "b"
+			}
+		}, {
+			"question": "The attribute of form tag",
+			"choices": [
+				"method",
+				"action",
+				"Both a & b",
+				"None of the above"
+			],
+			"answer": {
+				"answer": "Both a & b"
+			}
+		}, {
+			"question": "The attribute of form tag",
+			"choices": [
+				"method",
+				"action",
+				"Both a & b",
+				"None of the above"
+			],
+			"answer": {
+				"answer": "Both a & b"
+			}
+		}
+	]
+}
